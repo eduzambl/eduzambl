@@ -13,5 +13,5 @@
 
 - 📫 How to reach me: use the badges above 😃
 
-## Some of my Github Stats
-![eduzambl github stats](https://github-readme-stats.vercel.app/api?username=eduzambl&show_icons=true)
+<!-- ## Some of my Github Stats -->
+<!-- ![eduzambl github stats](https://github-readme-stats.vercel.app/api?username=eduzambl&show_icons=true) -->
